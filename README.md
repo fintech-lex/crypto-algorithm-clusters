@@ -3,6 +3,8 @@ Optimize the Clusters with Principal Component Analysis, K-Means &amp; Best Valu
 
 Financial Analysis Methods utilized:
 
-- Elbow method algorithm
-- K-means model
+- K-means model algorithm
 - Principal Compenent Analysis
+- Elbow method 
+
+Investment Securities utilized is Cryptocurrency, which similar to Stock Equities, can be analyzed and visualized with leveraged sklearn library.
